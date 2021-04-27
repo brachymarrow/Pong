@@ -1,0 +1,6 @@
+﻿  Entity.cpp
+  main.cpp
+  Generating Code...
+C:\Users\elsfa\Desktop\VisualStudioSDLProject\SDLProject\main.cpp(96,12): warning C4101:  'event': unreferenced local variable
+  LINK : C:\Users\elsfa\Desktop\VisualStudioSDLProject\SDLProject\Debug\SDLProject.exe not found or not built by the last incremental link; performing full link
+  SDLProject.vcxproj -> C:\Users\elsfa\Desktop\VisualStudioSDLProject\SDLProject\Debug\SDLProject.exe
